@@ -1,8 +1,5 @@
 package Lib;
 import javax.swing.*;
-import java.awt.*;
-import java.awt.event.*;
-import javax.swing.*;
 
 public class Form1 extends JFrame {
     public Form1(){
